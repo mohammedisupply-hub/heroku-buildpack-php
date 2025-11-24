@@ -3,6 +3,39 @@
 ## [Unreleased]
 
 
+## [v278] - 2025-11-22
+
+### ADD
+
+- PHP/8.3.28 [David Zuelke]
+- PHP/8.4.15 [David Zuelke]
+- ext-ev/1.2.2 [David Zuelke]
+- ext-redis/6.3.0 [David Zuelke]
+- ext-blackfire/1.92.50 [David Zuelke]
+- ext-newrelic/12.2.0.27 [David Zuelke]
+
+### CHG
+
+- blackfire/2.29.6 [David Zuelke]
+- Composer/2.9.2 [David Zuelke]
+
+## [v277] - 2025-10-24
+
+### ADD
+
+- PHP/8.3.27 [David Zuelke]
+- PHP/8.4.14 [David Zuelke]
+- ext-mongodb/1.21.2 [David Zuelke]
+- ext-mongodb/2.1.4 [David Zuelke]
+- ext-memcached/3.4.0 [David Zuelke]
+- ext-blackfire/1.92.48 [David Zuelke]
+- ext-grpc/1.76.0 [David Zuelke]
+
+### CHG
+
+- librdkafka/2.12.1 [David Zuelke]
+- blackfire/2.29.2 [David Zuelke]
+
 ## [v276] - 2025-10-05
 
 ### CHG
@@ -3022,7 +3055,9 @@
 
 - Auto-set and follow (but not enable, for now) the FPM slowlog [David Zuelke]
 
-[unreleased]: https://github.com/heroku/heroku-buildpack-php/compare/v276...main
+[unreleased]: https://github.com/heroku/heroku-buildpack-php/compare/v278...main
+[v278]: https://github.com/heroku/heroku-buildpack-php/compare/v277...v278
+[v277]: https://github.com/heroku/heroku-buildpack-php/compare/v276...v277
 [v276]: https://github.com/heroku/heroku-buildpack-php/compare/v275...v276
 [v275]: https://github.com/heroku/heroku-buildpack-php/compare/v274...v275
 [v274]: https://github.com/heroku/heroku-buildpack-php/compare/v273...v274
